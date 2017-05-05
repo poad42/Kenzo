@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>Dirty-Unicorns</RomName>
+<VersionName>DU_kenzo_7.1.2_20170505-1214.v11.3-UNOFFICIAL</VersionName>
+<VersionNumber type="integer">20170505-1214</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/poad42/files/DU_kenzo_7.1.2_20170505-1133.v11.3-UNOFFICIAL.zip]]></DirectUrl>
+<Android>7.1.2</Android>
+<FileSize type="integer">443182561</FileSize>
+<Developer><![CDATA[poad42]]></Developer>
+<Changelog>
+<![CDATA[
+-bring back fpc driver changes
+-OTA support
+-Fix equalizer FC
+-Some other stuff I might have forgot about :D
+]]>
+</Changelog>
+</ROM>
